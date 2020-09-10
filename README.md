@@ -1,4 +1,4 @@
-# Yavuz Kömeçoğlu
+# [Yavuz Kömeçoğlu](http://yavuzkomecoglu.com/)
 
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DYavuzKomecoglu&suffix=%20Followers)](https://twitter.com/YavuzKomecoglu)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/yavuzkomecoglu/)
@@ -8,7 +8,7 @@ Hi there 👋, My name is Yavuz.
 
 * :computer: Currently working [@Kodiks](http://kodiks.com/) | Machine Learning R&D Engineer
 * :pencil2: I wrote dev articles on http://blog.yavuzkomecoglu.com/
-* 🧐 I am interested in computer vision and natural language processing. Deep Learning Enthusiast. I love research and development.
+* 🧐 I am interested in **Computer Vision** and **Natural Language Processing**. Deep Learning Enthusiast. I love research and development.
 * :video_game: I'm enjoying playing FIFA on a <img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/ps4.svg" alt="ps4" width="20" height="20"/>.
 
 **🌈 Languages and Tools:**
