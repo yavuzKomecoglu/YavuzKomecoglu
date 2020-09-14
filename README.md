@@ -9,7 +9,7 @@ Hi there 👋, My name is Yavuz.
 * :computer: Currently working [@Kodiks](http://kodiks.com/) | Machine Learning R&D Engineer
 * :pencil2: I wrote dev articles on http://blog.yavuzkomecoglu.com/
 * 🧐 I am interested in **Computer Vision** and **Natural Language Processing**. Deep Learning Enthusiast. I love research and development.
-* :video_game: I'm enjoying playing FIFA on a <img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/ps4.svg" alt="ps4" width="20" height="20"/>.
+* :video_game: I enjoy playing FIFA on a <img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/ps4.svg" alt="ps4" width="20" height="20"/>.
 
 **🌈 Languages and Tools:**
 
