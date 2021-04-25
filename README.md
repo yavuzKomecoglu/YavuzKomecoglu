@@ -14,15 +14,15 @@ Hi there 👋, My name is Yavuz.
 **🌈 Languages and Tools:**
 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.kodiks.com/assets/images/icon-technology/pUBY5pVj.png" alt="python" width="40" height="40"/>
+<img src="https://www.kodiks.com/assets/images/icon-technology/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png" alt="flask" width="40" height="40"/>
+<img src="https://www.kodiks.com/assets/images/icon-technology/ASOhU5xJ.png" alt="postgresql" width="40" height="40"/>
+<img src="https://www.kodiks.com/assets/images/icon-technology/n4u37v9t_400x400.png" alt="postgresql" width="40" height="40"/>
+<img src="https://www.kodiks.com/assets/images/icon-technology//21_d3cvM.png" alt="kubernetes" width="40" height="40"/>
+<img src="https://www.kodiks.com/assets/images/icon-technology/cof_orange_hex.jpg" alt="ubuntu" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="tensorflow" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://www.kodiks.com/assets/images/icon-technology/FtFnqC38_400x400.png" alt="tensorflow" width="40" height="40"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yavuzKomecoglu&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
