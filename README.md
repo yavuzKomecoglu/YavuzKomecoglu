@@ -26,3 +26,5 @@ Hi there 👋, My name is Yavuz.
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yavuzKomecoglu&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yavuzkomecoglu)
