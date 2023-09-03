@@ -1,13 +1,18 @@
 # [Yavuz Kömeçoğlu](http://yavuzkomecoglu.com/)
 
-[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DYavuzKomecoglu&suffix=%20Followers)](https://twitter.com/YavuzKomecoglu)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/yavuzkomecoglu/)
+
+<a href="https://www.twitter.com/yavuzkomecoglu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/yavuzkomecoglu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/yavuzkomecoglu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/yavuzkomecoglu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:komecoglu.yavuz@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 Hi there 👋, My name is Yavuz. 
 
 * :computer: Currently working [@Kodiks](http://kodiks.com/) | Machine Learning R&D Engineer
 * :pencil2: I wrote dev articles on http://blog.yavuzkomecoglu.com/
+* 🎓 How to reach my publications: [Google Scholar](https://scholar.google.com/citations?hl=tr&user=E7vPoXIAAAAJ&view_op=list_works&sortby=pubdate)
 * 🧐 I am interested in **Computer Vision** and **Natural Language Processing**. Deep Learning Enthusiast. I love research and development.
 * :video_game: I enjoy playing FIFA on a <img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/ps4.svg" alt="ps4" width="20" height="20"/>.
 
